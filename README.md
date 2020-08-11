@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Marcelo Pereira, 🤓 e moro Porto Alegre - RS / Brasil. Desenvolvedor web desde 2006, sempre em busca de novas tecnologias, novos desafios e disposto a compartilhar conhecimento. 💬 Atualmente trabalhando com Javascript, 😍 React, Gatsby entre outras tecnologias.
+Meu nome é Marcelo Pereira, 🤓 Desenvolvedor web desde 2006, sempre em busca de novas tecnologias, novos desafios e disposto a compartilhar conhecimento. 💬 Atualmente trabalhando com Javascript, 😍 React, Gatsby entre outras tecnologias.
 
 Tão legal quanto aprender novas tecnologias, é poder passar este conhecimento adiante. Recentemente criei meu canal no Youtube ``Dica do Nerd`` 🤓 com objetivo de compartilhar conteúdo com meus alunos e demais interessados sobre ``Desenvolvimento de Interfaces para Web``.
 
