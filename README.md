@@ -11,4 +11,8 @@ Confere lá!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelopoars)](https://www.linkedin.com/in/marcelopoars)
 
 
-[Site: www.marcelopereira.dev](https://marcelopereira.dev)
+[Site: www.marcelopereira.dev](https://marcelopereira.dev){:target="_blank" rel="noopener"}
+
+<br><br><br><br><br>
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
