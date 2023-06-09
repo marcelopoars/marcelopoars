@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Marcelo Pereira. 🤓
 
-Desenvolvedor Frontend / Full-stack a mais de 10 anos, atualmente trabalhando com ReactJs, JavaScript, TypeScript, Python, Php, Styled-components, Next.js, NodeJs, NestJS, MongoDb, Prisma, entre outras tecnologias. Apaixonado por temas como Acecibilidade na Web, Web Semântica, SEO e Performance. 
+Desenvolvedor Frontend / Full-stack a mais de 10 anos, atualmente trabalhando com ReactJs, JavaScript, TypeScript, Python, Styled-components, Next.js, NodeJs, NestJS, MongoDb, Prisma, entre outras tecnologias. Apaixonado por temas como Acecibilidade na Web, Web Semântica, SEO e Performance. 
 
 Eu amo compartilhar conhecimento. ♥ Em 2020 criei o canal Dica do Nerd no Youtube (youtube.com/DicaDoNerd), onde publico conteúdos variados sobre desenvolvimento web buscando ajudar desenvolvedores iniciantes e demais interessados em migrar para área de desenvolvimento web.
 
