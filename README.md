@@ -1,10 +1,8 @@
 # Olá! 👋 Eu sou Marcelo Pereira.
 
-🤓 Desenvolvedor Frontend apaixonado por criar interfaces web incríveis e acessíveis. Entusiasta de SEO, Acessibilidade e Inteligência Artificial. Minha missão é contribuir para uma web mais inclusiva e semântica, garantindo que todas as pessoas tenham acesso a uma experiência digital excepcional.
+🤓 Desenvolvedor Frontend apaixonado por criar interfaces web incríveis e acessíveis. Entusiasta de SEO, acessibilidade e inteligência artificial. Minha missão é contribuir para uma web mais inclusiva e semântica, garantindo que todas as pessoas tenham acesso a uma experiência digital excepcional.
 
-💼 Profissional com muita experiência em desenvolvimento de interfaces web utilizando tecnologias como ReactJS, NextJs, TypeScript, JavaScript, HTML, CSS e TailwindCSS. Além disso, minha experiência se estende para o desenvolvimento backend, onde trabalhei com NodeJS, Express, PrismaORM, RxJs, Swagger, diferentes bancos de dados e outras ferramentas.
-
-🔧 Recentemente atuei como Frontend Developer em um projeto global, um portal de backoffice de alta complexidade, onde trabalhei com um conjunto de tecnologias para front-end, incluindo ReactJS, TypeScript, Styled-components, Jest, React Testing Library, Axios, Git, Azure, SonarQube, Aqua Enterprise, entre outras. 
+💼 Profissional com muita experiência em desenvolvimento de interfaces web utilizando tecnologias como React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Styled-components, Tailwind CSS, Shadcn UI, React Hook Form, Zod, Jest, React Testing Library, Axios, SonarQube, Aqua Enterprise, Azure, AWS, entre outras.
 
 🚀 Estou constantemente buscando aprimorar meus conhecimentos e habilidades, tanto através do aprendizado contínuo quanto compartilhando meu conhecimento com a comunidade.
 
