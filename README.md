@@ -1,24 +1,18 @@
-# Olá! 👋 Eu sou Marcelo Pereira.
+# Olá! 👋 Eu sou Marcelo Pereira
 
-🤓 Desenvolvedor Frontend apaixonado por criar interfaces web incríveis e acessíveis. Entusiasta de SEO, acessibilidade e inteligência artificial. Minha missão é contribuir para uma web mais inclusiva e semântica, garantindo que todas as pessoas tenham acesso a uma experiência digital excepcional.
+🌎 Desenvolvedor Front-end Sênior | Especialista em React, Next.js, TypeScript, SEO, Acessibilidade & Arquitetura de Software
 
-💼 Profissional com muita experiência em desenvolvimento de interfaces web utilizando tecnologias como React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Styled-components, Tailwind CSS, Shadcn UI, React Hook Form, Zod, Jest, React Testing Library, Axios, SonarQube, Aqua Enterprise, Azure, AWS, entre outras.
+Com mais de 15 anos de experiência, construo aplicações web modernas, escaláveis e acessíveis — sempre com foco em performance, código limpo, UX de alto nível e inclusão digital.  
+Sou apaixonado por criar interfaces inclusivas e semânticas, garantindo que todos os usuários, independentemente de suas habilidades ou dispositivos, tenham acesso a uma experiência digital excepcional.
 
-🚀 Estou constantemente buscando aprimorar meus conhecimentos e habilidades, tanto através do aprendizado contínuo quanto compartilhando meu conhecimento com a comunidade.
+Adoto as melhores práticas de SEO, testes automatizados, qualidade de código (Clean Code, SOLID) e tenho vivência com liderança técnica, mentoria de times, definição de arquitetura, análise de requisitos e facilitação de rituais ágeis.
+
+**Stack atual:**  
+React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Shadcn UI • React Hook Form • Zod • Styled-components • Jest • Testing Library • Axios • SonarQube • CI/CD • Azure • AWS • Vercel • Render
+
+🚀 Sempre aprendendo, experimentando novas tecnologias, escrevendo artigos, criando conteúdo e colaborando com a comunidade dev.
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCjsX4DU9LnNYUC2366_wJkw?view_as=subscriber)](https://www.youtube.com/channel/UCjsX4DU9LnNYUC2366_wJkw?view_as=subscriber)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcelopoars)](https://twitter.com/marcelopoars)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelopoars)](https://www.linkedin.com/in/marcelopoars)
 
-
-[Site: www.marcelopereira.dev](https://marcelopereira.dev)
-
-
-
-
-
-
-
-
-
-
+🌐 [Site: [www.marcelopereira.com.br](https://www.marcelopereira.com.br)
